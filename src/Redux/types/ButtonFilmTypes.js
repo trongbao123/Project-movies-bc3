@@ -1,0 +1,2 @@
+export const SET_START_FILM = "SET_START_FILM"
+export const SET_SAP_CHIEU = "SET_SAP_CHIEU"

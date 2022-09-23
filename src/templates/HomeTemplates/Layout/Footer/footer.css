@@ -1,0 +1,14 @@
+li{
+    list-style-type: none !important;
+  
+}
+li>a{
+    color:white !important;
+    font-size:15px !important;
+}
+li>a:hover{
+    color:grey !important;
+}
+h2{
+    color:white !important;
+}
